@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Gotame</h1>
-<h3 align="center">A passionate Backend developer from Nepal</h3>
+<h3 align="center">Backend developer</h3>
 
 - 🔭 I’m currently working on [Paywell Nepal](https://paywellcorp.com/)
 
