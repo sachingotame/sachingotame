@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Paywell Nepal](https://paywellcorp.com/)
 
-- 🌱 I’m currently learning **Python, React**
+- 🌱 I’m currently learning **Python, JavaScript**
 
-- 💬 Ask me about **Python , Django ,React**
+- 💬 Ask me about **Python, Django, React**
 
 - 📫 How to reach me **sssgautam18@gmail.com**
 
