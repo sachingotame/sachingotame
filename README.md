@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, JavaScript**
 
-- 💬 Ask me about **Django, React**
+- 💬 Ask me about **Django, Flask, React**
 
 - 📫 How to reach me **sssgautam18@gmail.com**
 
